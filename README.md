@@ -17,23 +17,24 @@ Lateral canal test type: left side vHIT data with a) normal and b) artifact impu
 ![artifacts](/images/artifact_impulses.png) 
 
 
-Four type of classes
-Normal - 1081,
-Abnormal -	804,
-Artifact_phase_shift - 797,
-Artifact_high_gain - 1115
-Total	3797 impulses
-----------------------------
+#### Type of classes
+
+1) Normal - 1081,
+2) Abnormal -	804,
+3) Artifact_phase_shift - 797,
+4) Artifact_high_gain - 1115
+Total	**3797** impulses
 
 
-Training part
+
+### Training part
 --------------
 
  ```bash 
  python train.py -l labels.pickle
 ```
 
-Test part
+### Test part
 ----------
 
 ``` bash
