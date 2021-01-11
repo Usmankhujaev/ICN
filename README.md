@@ -23,6 +23,7 @@ Lateral canal test type: left side vHIT data with a) normal and b) artifact impu
 2) Abnormal -	804,
 3) Artifact_phase_shift - 797,
 4) Artifact_high_gain - 1115
+
 Total	**3797** impulses
 
 
